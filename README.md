@@ -1,5 +1,9 @@
 # My HTML Project
-The project page URL `https://roadmap.sh/projects/single-page-cv`
+## Project Page
+
+You can view the project details and roadmap here: [Single Page CV Project](https://roadmap.sh/projects/single-page-cv)
+
+---
 
 
 
